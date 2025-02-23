@@ -75,10 +75,10 @@ const About = () => {
                     <img src="/assets/grid3.png" alt="grid-3" className='w-full sm:h-[260px] xl:h-[350px] h-fit object-contain' />
                     <div>
                         <p className='grid-headtext xl:text-3xl'>
-                            My Passion for Coding
+                        Internship Experience
                         </p>
                         <p className='grid-subtext xl:text-xl'>
-                           Coding is more than just a skill or profession for me—it’s a way to bring ideas to life. I love the challenge of solving problems, optimizing solutions, and building innovative applications. Every line of code I write fuels my curiosity and pushes me to learn and improve. Whether it’s developing user-friendly interfaces, designing efficient algorithms, or debugging complex issues, I find immense satisfaction in the process. For me, coding isn’t just about writing programs; it’s about creating impact, one solution at a time.
+                        I am currently working as an Intern at JISA Soft Tech, where I am gaining hands-on experience in software development. This internship allows me to enhance my technical skills, collaborate with industry professionals, and work on real-world projects. Through this opportunity, I am improving my expertise in React, unit testing, and software development best practices, preparing me for a strong career in the tech industry.
                         </p>
                     </div>
                 </div>
